@@ -38,8 +38,6 @@
 
 ## 👋 About Me
 
-سلام! من **عماد نعمتی** هستم — متخصص ارشد سئو و دانش‌پذیر هوش مصنوعی و علم داده.
-
 I am a **Senior SEO Specialist with 4+ years of hands-on experience** in technical SEO, content strategy, organic-growth analysis, and search-led website development. I am currently studying **Artificial Intelligence and Data Science at Maktab Sharif** and working hands-on with Python, PyTorch, neural-network fundamentals, and convolutional neural networks.
 
 My goal is to connect two worlds that naturally belong together: **search behavior and machine intelligence**. I am especially interested in building practical systems for SEO automation, content intelligence, anomaly detection, forecasting, classification, and data-informed decision-making.
