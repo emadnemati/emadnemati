@@ -21,7 +21,7 @@
 <br />
 
 <p align="center">
-  <img width="100%" src="./seo-search-growth.png" alt="Google Search Console performance showing 162K clicks, 3.42M impressions, 4.7 percent CTR, and 6.2 average position" />
+  <img width="100%" src="[./seo-search-growth.png](https://github.com/emadnemati/emadnemati/blob/main/seo-search-growth.PNG)" alt="Google Search Console performance showing 162K clicks, 3.42M impressions, 4.7 percent CTR, and 6.2 average position" />
 </p>
 
 <p align="center">
