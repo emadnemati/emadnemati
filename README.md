@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile README for Emad Nemati
-  Profile username: emadnemati
-  To publish: create a PUBLIC repository named "emadnemati" and save this file as README.md in its root.
--->
 
 <h1 align="center">Hi, I'm Emad Nemati 👋</h1>
 
@@ -77,7 +72,7 @@ emad = {
 - 🔬 Exploring the intersection of **machine learning, information retrieval, user intent, and organic growth**.
 - 🎯 Long-term direction: applied AI for search, marketing intelligence, and decision-support systems.
 
-## 🧠 AI & Machine Learning Roadmap
+## 🧠 My AI & Machine Learning Roadmap
 
 <table>
   <tr>
@@ -108,10 +103,8 @@ I am building practical familiarity with the core Python ecosystem used for data
 | **PyTorch** | Building tensors, neural-network components, training workflows, and convolutional neural networks. |
 | **Matplotlib** | Creating charts and visualizing distributions, comparisons, and model results. |
 | **Joblib** | Saving and loading trained models and preprocessing objects. |
-| **requests** | Connecting Python applications to APIs and exchanging structured data. |
+| **JSON** | Structuring, storing, and exchanging data between Python applications, APIs, and AI workflows. |
 | **Jupyter Notebook** | Documenting experiments and combining code, results, and explanations in a reproducible workflow. |
-
-**Currently learning:** tensors · neural-network training · activation functions · gradient descent · CNNs · convolution · padding · pooling · model evaluation
 
 ## 🧰 AI & Data Learning Stack
 
@@ -130,7 +123,7 @@ I am building practical familiarity with the core Python ecosystem used for data
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" height="44" alt="Gemini" /><br /><sub><b>Gemini</b></sub><br /><sub>Applied</sub></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="44" height="44" alt="Matplotlib" /><br /><sub><b>Matplotlib</b></sub><br /><sub>Learning</sub></td>
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" /><br /><sub><b>Git</b></sub><br /><sub>Learning</sub></td>
-    <td align="center"><b>Current Topics</b><br /><sub>Neural Networks<br />CNNs</sub></td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="44" height="44" alt="TensorFlow" /><br /><sub><b>TensorFlow</b></sub><br /><sub>Learning Roadmap</sub></td>
   </tr>
 </table>
 
@@ -191,7 +184,6 @@ I am building practical familiarity with the core Python ecosystem used for data
 - Taught **SEO and content production at the University of Tehran** in 2024/1403.
 - Taught **Advanced Screaming Frog** in Mohsen Tavousi's comprehensive SEO program in 2024/1403.
 - Support and mentoring for SEO learners: troubleshooting, audits, and practical consultation.
-- Completed comprehensive SEO programs by **Mohsen Tavousi** and **Amin Esmaeili / Websima**.
 
 ## 💡 What Makes My Profile Different
 
