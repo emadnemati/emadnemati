@@ -21,12 +21,23 @@
 <br />
 
 <p align="center">
-  <img width="100%" src="[./seo-search-growth.png](https://github.com/emadnemati/emadnemati/blob/main/seo-search-growth.PNG)" alt="Google Search Console performance showing 162K clicks, 3.42M impressions, 4.7 percent CTR, and 6.2 average position" />
+  <img width="100%" src="./seo-search-growth.PNG" alt="Google Search Console performance showing 162K clicks, 3.42M impressions, 4.7 percent CTR, and 6.2 average position" />
 </p>
 
 <p align="center">
   <b>162K Clicks · 3.42M Impressions · 4.7% CTR · 6.2 Average Position</b><br />
   <sub>Selected Google Search Console performance snapshot · Domain anonymized</sub>
+</p>
+
+<h3 align="center">Ready to turn search data into measurable growth?</h3>
+
+<p align="center">
+  <sub>I combine SEO strategy, data analysis, and AI-assisted workflows to find opportunities and turn them into action.</sub>
+</p>
+
+<p align="center">
+  <a href="#selected-seo-work"><img src="https://img.shields.io/badge/Explore_My_SEO_Work-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Explore Emad's SEO work" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emad.nemati77@gmail.com&su=Organic%20Growth%20Conversation"><img src="https://img.shields.io/badge/Let's_Talk_Organic_Growth-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Talk with Emad about organic growth" /></a>
 </p>
 
 ---
@@ -123,6 +134,8 @@ I am building practical familiarity with the core Python ecosystem used for data
 </table>
 
 **SEO capabilities:** Technical SEO · On-page SEO · Off-page SEO · Content SEO · Keyword Research · Search Intent · Competitor Analysis · Content Gap · Topic Clusters · Topical Authority · Internal Linking · Crawlability · Indexability · Information Architecture · E-E-A-T · YMYL · Medical SEO · Link Building · Reporting
+
+<a id="selected-seo-work"></a>
 
 ## 🚀 Selected SEO Work
 
