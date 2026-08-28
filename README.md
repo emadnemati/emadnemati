@@ -4,22 +4,30 @@
   To publish: create a PUBLIC repository named "emadnemati" and save this file as README.md in its root.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,48:0F766E,100:22C55E&height=230&section=header&text=Emad%20Nemati&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20SEO%20%7C%20Data%20%26%20Machine%20Learning&descAlignY=57&descSize=19" alt="Emad Nemati — AI-Powered SEO, Data and Machine Learning" />
+<h1 align="center">Hi, I'm Emad Nemati 👋</h1>
+
+<h3 align="center">Senior SEO Specialist · AI & Data Science Learner</h3>
 
 <div align="center">
-  <img src="https://github.com/emadnemati.png" width="150" alt="Emad Nemati" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Senior+SEO+Specialist+%7C+4%2B+Years+of+Experience;Learning+AI%2C+Data+Science+%26+Machine+Learning;Building+Data-Driven+and+AI-Assisted+SEO+Systems;Turning+Search+Data+into+Measurable+Growth" alt="Animated introduction" />
   <br />
   <br />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Senior+SEO+Specialist+%7C+4%2B+Years+of+Experience;Learning+AI%2C+Data+Science+%26+Machine+Learning;Building+Data-Driven+and+AI-Assisted+SEO+Systems;Turning+Search+Data+into+Measurable+Growth" alt="Animated introduction" />
-  </a>
-  <br />
-  <br />
-  <a href="mailto:emad.nemati77@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emad.nemati77@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/emadnemati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/Emadnemati"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <img src="https://img.shields.io/badge/Tehran-Iran-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tehran, Iran" />
+  <a href="https://www.google.com/maps/search/Tehran,+Iran"><img src="https://img.shields.io/badge/Tehran-Iran-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tehran, Iran on Google Maps" /></a>
 </div>
+
+<br />
+
+<p align="center">
+  <img width="100%" src="./seo-search-growth.png" alt="Google Search Console performance showing 162K clicks, 3.42M impressions, 4.7 percent CTR, and 6.2 average position" />
+</p>
+
+<p align="center">
+  <b>162K Clicks · 3.42M Impressions · 4.7% CTR · 6.2 Average Position</b><br />
+  <sub>Selected Google Search Console performance snapshot · Domain anonymized</sub>
+</p>
 
 ---
 
@@ -145,8 +153,8 @@ I do not see AI as a shortcut for producing more content. I use it as a layer fo
 I am open to conversations about **AI-assisted SEO, organic growth, search analytics, machine-learning learning projects, and practical automation**.
 
 <div align="center">
-  <a href="mailto:emad.nemati77@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Emad" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emad.nemati77@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Emad" /></a>
   <a href="https://www.linkedin.com/in/emadnemati/"><img src="https://img.shields.io/badge/Professional_Profile-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Emad on LinkedIn" /></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,52:0F766E,100:0F172A&height=120&section=footer" alt="Footer" />
+<p align="center"><sub>SEO experience. Data mindset. Practical AI.</sub></p>
