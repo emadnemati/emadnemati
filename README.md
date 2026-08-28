@@ -6,10 +6,10 @@
 
 <h1 align="center">Hi, I'm Emad Nemati 👋</h1>
 
-<h3 align="center">Senior SEO Specialist · AI & Data Science Learner</h3>
+<h3 align="center">Senior SEO Specialist · Applied AI & Machine Learning Learner</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Senior+SEO+Specialist+%7C+4%2B+Years+of+Experience;Learning+AI%2C+Data+Science+%26+Machine+Learning;Building+Data-Driven+and+AI-Assisted+SEO+Systems;Turning+Search+Data+into+Measurable+Growth" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Senior+SEO+Specialist+%7C+4%2B+Years+of+Experience;Working+with+PyTorch%2C+Neural+Networks+%26+CNNs;Learning+AI%2C+Data+Science+%26+Machine+Learning;Building+Data-Driven+and+AI-Assisted+SEO+Systems" alt="Animated introduction" />
   <br />
   <br />
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emad.nemati77@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -25,7 +25,6 @@
 </p>
 
 <p align="center">
-  <b>162K Clicks · 3.42M Impressions · 4.7% CTR · 6.2 Average Position</b><br />
   <sub>Selected Google Search Console performance snapshot · Domain anonymized</sub>
 </p>
 
@@ -46,14 +45,14 @@
 
 سلام! من **عماد نعمتی** هستم — متخصص ارشد سئو و دانش‌پذیر هوش مصنوعی و علم داده.
 
-I am a **Senior SEO Specialist with 4+ years of hands-on experience** in technical SEO, content strategy, organic-growth analysis, and search-led website development. I am currently studying **Artificial Intelligence and Data Science at Maktab Sharif**, strengthening my foundation in Python, statistics, data analysis, and machine learning.
+I am a **Senior SEO Specialist with 4+ years of hands-on experience** in technical SEO, content strategy, organic-growth analysis, and search-led website development. I am currently studying **Artificial Intelligence and Data Science at Maktab Sharif** and working hands-on with Python, PyTorch, neural-network fundamentals, and convolutional neural networks.
 
 My goal is to connect two worlds that naturally belong together: **search behavior and machine intelligence**. I am especially interested in building practical systems for SEO automation, content intelligence, anomaly detection, forecasting, classification, and data-informed decision-making.
 
 ```python
 emad = {
     "professional_core": "Senior SEO & Organic Growth",
-    "current_learning": ["Python", "Data Science", "Machine Learning"],
+    "current_learning": ["Python", "PyTorch", "Neural Networks", "CNNs"],
     "applied_ai": ["SEO automation", "research", "analysis", "content intelligence"],
     "domain_strength": ["Technical SEO", "Content SEO", "E-E-A-T", "YMYL"],
     "mission": "Turn search data into useful systems and measurable growth"
@@ -72,10 +71,30 @@ emad = {
 </table>
 
 - 🎓 Currently completing the **AI & Data Science program at Maktab Sharif**.
-- 🧠 Learning supervised machine learning, evaluation, feature preparation, cross-validation, and threshold tuning.
+- 🧠 Currently working with **PyTorch**, neural-network fundamentals, activation functions, gradient descent, and **CNNs**.
+- 📈 Building foundations in statistics, supervised and unsupervised learning, regression, classification, clustering, model evaluation, and cross-validation.
 - 🛠️ Applying ChatGPT, Claude, and Gemini to research, analysis, quality control, and SEO workflow automation.
 - 🔬 Exploring the intersection of **machine learning, information retrieval, user intent, and organic growth**.
 - 🎯 Long-term direction: applied AI for search, marketing intelligence, and decision-support systems.
+
+## 🧠 AI & Machine Learning Roadmap
+
+<table>
+  <tr>
+    <th width="25%">🔥 Working on Now</th>
+    <th width="25%">📊 ML Foundations</th>
+    <th width="25%">🧩 LLM Systems</th>
+    <th width="25%">🚀 AI Product Engineering</th>
+  </tr>
+  <tr>
+    <td>PyTorch<br />Neural networks<br />Activation functions<br />Gradient descent<br />CNN architecture<br />Convolution, padding & pooling</td>
+    <td>Statistics & probability<br />Regression & classification<br />KNN & decision trees<br />Clustering<br />Model metrics<br />Cross-validation<br />Bias-variance trade-off</td>
+    <td>Transformers<br />Hugging Face<br />Local LLMs<br />Embeddings<br />Semantic search<br />Prompt engineering<br />Function calling</td>
+    <td>RAG & vector databases<br />AI agents<br />LangChain & LangGraph<br />Diffusion & multimodal AI<br />Speech AI<br />FastAPI & Docker<br />LLMOps</td>
+  </tr>
+</table>
+
+> **Current hands-on focus:** PyTorch, neural networks, and CNNs. Other items above represent the structured roadmap of my seven-month AI bootcamp and will be updated as I progress.
 
 ## 📚 Python Libraries & Data Toolkit
 
@@ -86,11 +105,13 @@ I am building practical familiarity with the core Python ecosystem used for data
 | **pandas** | Data loading, cleaning, filtering, transformation, and exploratory analysis with DataFrames. |
 | **NumPy** | Numerical operations, arrays, and preparing data for analytical and machine-learning workflows. |
 | **scikit-learn** | Data preprocessing, train/test splitting, feature scaling, classification, model evaluation, and cross-validation. |
+| **PyTorch** | Building tensors, neural-network components, training workflows, and convolutional neural networks. |
 | **Matplotlib** | Creating charts and visualizing distributions, comparisons, and model results. |
 | **Joblib** | Saving and loading trained models and preprocessing objects. |
+| **requests** | Connecting Python applications to APIs and exchanging structured data. |
 | **Jupyter Notebook** | Documenting experiments and combining code, results, and explanations in a reproducible workflow. |
 
-**Currently learning:** data preprocessing · exploratory data analysis · supervised learning · classification · model evaluation · feature scaling · cross-validation · hyperparameter testing
+**Currently learning:** tensors · neural-network training · activation functions · gradient descent · CNNs · convolution · padding · pooling · model evaluation
 
 ## 🧰 AI & Data Learning Stack
 
@@ -101,16 +122,33 @@ I am building practical familiarity with the core Python ecosystem used for data
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/pandas/150458" width="44" height="44" alt="pandas" /><br /><sub><b>pandas</b></sub><br /><sub>Learning</sub></td>
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/numpy/013243" width="44" height="44" alt="NumPy" /><br /><sub><b>NumPy</b></sub><br /><sub>Learning</sub></td>
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="44" height="44" alt="scikit-learn" /><br /><sub><b>scikit-learn</b></sub><br /><sub>Learning</sub></td>
-    <td align="center" width="120"><img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" /><br /><sub><b>Git</b></sub><br /><sub>Learning</sub></td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="44" height="44" alt="PyTorch" /><br /><sub><b>PyTorch</b></sub><br /><sub>Current Focus</sub></td>
   </tr>
   <tr>
     <td align="center" width="120"><img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310A37F" width="44" height="44" alt="ChatGPT" /><br /><sub><b>ChatGPT</b></sub><br /><sub>Applied</sub></td>
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="44" height="44" alt="Claude" /><br /><sub><b>Claude</b></sub><br /><sub>Applied</sub></td>
     <td align="center" width="120"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" height="44" alt="Gemini" /><br /><sub><b>Gemini</b></sub><br /><sub>Applied</sub></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="44" height="44" alt="Matplotlib" /><br /><sub><b>Matplotlib</b></sub><br /><sub>Learning</sub></td>
-    <td align="center" colspan="2"><b>Current ML Topics</b><br /><sub>classification · model evaluation · cross-validation · feature scaling</sub></td>
+    <td align="center" width="120"><img src="https://cdn.simpleicons.org/git/F05032" width="44" height="44" alt="Git" /><br /><sub><b>Git</b></sub><br /><sub>Learning</sub></td>
+    <td align="center"><b>Current Topics</b><br /><sub>Neural Networks<br />CNNs</sub></td>
   </tr>
 </table>
+
+### Upcoming Bootcamp Modules
+
+<details>
+  <summary><b>View the full seven-month AI engineering roadmap</b></summary>
+  <br />
+
+- **Deep Learning:** PyTorch, TensorFlow, deep-network training, CNNs, transfer learning, and ResNet.
+- **Transformers & Local Models:** transformer architecture, attention, Hugging Face, quantization, Ollama, and llama.cpp.
+- **Language Intelligence:** embeddings, semantic and hybrid search, reranking, advanced prompt engineering, ReAct, and function calling.
+- **RAG & Agents:** document ingestion, chunking, vector databases, metadata filtering, LangChain, LangGraph, memory, tools, and workflow automation.
+- **Vision & Documents:** diffusion models, image generation and editing, vision-language models, intelligent OCR, and structured information extraction.
+- **Speech AI:** speech-to-text, text-to-speech, voice cloning, and integrated voice assistants.
+- **Deployment & Operations:** FastAPI, Docker, multimodal model serving, evaluation, monitoring, and LLMOps.
+
+</details>
 
 ## 🔍 SEO & Growth Stack
 
